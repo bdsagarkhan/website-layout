@@ -1,0 +1,44 @@
+/*Header css*/
+.header,
+.footer {
+	min-height: 100px;
+}
+.red {
+	background: red;
+}
+.wrapper {
+	overflow: hidden;
+}
+.contact, 
+.blog,
+.single_item, 
+.four_column .single_item {
+	width: 50%;
+	min-height: 250px;
+	float: left;
+}
+.blog {
+	float: right;
+}
+.blue {
+	background: blue;
+}
+.purple {
+	background: purple;
+}
+.single_item, 
+.four_column .single_item {
+	width: 33.33%;
+}
+.black {
+	background: #000;
+}
+.yellow {
+	background: #ffff00;
+}
+.four_column .single_item {
+	width: 25%;
+}
+.cyan {
+	background: cyan;
+}
